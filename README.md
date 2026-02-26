@@ -8,7 +8,7 @@
 
 
 <h1 align="center">Lanchonete Express</h1>
-<p align="center"> <strong> Projeto avaliativo referente a disciplina de Desenvolvimento Web do programa Jovem Desenvolvedor Trier. </p>
+<p align="center"> <strong> Projeto avaliativo referente a disciplina de Desenvolvimento Web do programa Jovem Desenvolvedor Trier </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
