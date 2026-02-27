@@ -5,14 +5,14 @@ const menuItems = [
     name: "Mega Stack 2.0",
     price: 21.9,
     category: "Especial",
-    image: "/img/menu/1_mega_stack.png",
+    image: "./img/menu/1_mega_stack.png",
   },
   {
     id: 2,
     name: "Mega Stack 3.0",
     price: 38.9,
     category: "Especial",
-    image: "/img/menu/2_mega_stack_3.0.png",
+    image: "./img/menu/2_mega_stack_3.0.png",
   },
   {
     id: 3,
