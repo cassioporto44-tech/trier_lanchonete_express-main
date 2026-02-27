@@ -159,7 +159,7 @@ const menuItems = [
     name: "Guaraná Zer",
     price: 14.9,
     category: "Bebidas",
-    image: "/img/menu/23_guarana_zero.png",
+    image: "./img/menu/23_guarana_zero.png",
   },
   {
     id: 24,
