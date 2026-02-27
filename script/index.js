@@ -75,7 +75,7 @@ const menuItems = [
     name: "Batata Frita",
     price: 13.99,
     category: "Acompanhamentos",
-    image: "/img/menu/11_batata_frita.png",
+    image: "./img/menu/11_batata_frita.png",
   },
   {
     id: 12,
